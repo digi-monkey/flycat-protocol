@@ -1,6 +1,7 @@
 # Blog Protocol Based on Nostr
 
 - [CIP-01: Basic protocol flow description](cips/01.md)
+- [CIP-02: Notify message](cips/02.md)
 
 Flycat is a blog protocol based on [Nostr](https://github.com/nostr-protocol/nips) to gather all your creation and artworks into one single persona site using one single protocol, weather they are your blog articles, your photographies or drawings. 
 
